@@ -21,3 +21,7 @@ Mudanças na metodologia precisam explicar efeito sobre notas, dados ausentes, p
 ## Publicação
 
 PR aprovado entra neste repositório. Um mantenedor sincroniza a revisão com a instalação oficial, executa os testes e acompanha o deploy. Não prometa no site uma funcionalidade que só existe no roadmap.
+
+## Acrescentar ou corrigir uma ferramenta
+
+Edite `site/bench/catalog.mjs` com ID estável, nome, descrição breve própria, escopo, aliases e links de origem. Preserve os links ao agrupar cadastros. Registre a data e o motivo da revisão; use `needs_research` quando a fonte não sustenta uma descrição. Não transforme notas de reputação em notas de capacidade. Valide com `npm test` e confira busca, seleção e relatório.

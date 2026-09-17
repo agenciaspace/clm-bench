@@ -29,3 +29,11 @@ As quatro notas iniciais traduzem a hipótese que originou o Bench: Ironclad `[5
 5. **Acompanhamento:** comparar indicadores com a linha de base, revisar adoção e custo, registrar problemas e testar exportação/portabilidade antes de renovar. A interface separa diagnóstico e requisitos, totalizando seis etapas.
 
 A checklist registra conclusões declaradas pelo avaliador; marcar uma etapa não é certificação. Não estimamos preço, ROI, precisão ou prazo sem dados. A matriz e as contribuições ajudam a montar uma decisão rastreável; não substituem o piloto ou as aprovações da empresa.
+
+## Catálogo e seleção
+
+Consulta em 17/09/2026 às 16 páginas da [categoria de CLM do G2](https://www.g2.com/categories/contract-lifecycle-management-clm): 239 URLs de produtos, agrupadas por nomes idênticos, geram 233 entradas. Luminance, já presente no Bench, permanece como entrada adicional com seu perfil G2 separado. Todos os links de origem ficam preservados em `data/g2-clm-2026-09-17.json` e `catalog.mjs`. Agrupar nomes não comprova que as edições sejam equivalentes.
+
+Descrições são resumos próprios em português. Escopo é classificação editorial para descoberta; páginas insuficientes ou inconsistentes ficam sinalizadas. Não importamos estrelas, rankings nem depoimentos do G2 para a pontuação. Recursos e integrações precisam de evidência por edição e cenário. Novas opções têm 32 notas ausentes.
+
+Compare de duas a quatro ferramentas por vez. A seleção e as notas são salvas por ID no navegador, inclusive ao remover e adicionar novamente. Links compartilhados incluem apenas a comparação ativa; excluem contexto da empresa, checklist e avaliações de ferramentas removidas. Links anteriores com duas ferramentas continuam válidos.

@@ -1,0 +1,1447 @@
+{
+  "metadata": {
+    "checkedAt": "2026-09-17",
+    "categoryUrl": "https://www.g2.com/categories/contract-lifecycle-management-clm",
+    "categoryListingCount": 239,
+    "categoryPages": 16,
+    "toolCount": 234,
+    "grouping": "Exact display names grouped; every original G2 listing URL retained. Luminance retained from the original assessment and linked to its separate G2 profile.",
+    "sourcePolicy": "Discovery metadata only. No G2 ratings, rankings or review text are reused as capability scores."
+  },
+  "listings": [
+    {
+      "id": "docusign-clm",
+      "name": "Docusign CLM",
+      "url": "https://www.g2.com/products/docusign-clm/reviews",
+      "page": 1
+    },
+    {
+      "id": "conga-conga-clm",
+      "name": "Conga CLM",
+      "url": "https://www.g2.com/products/conga-conga-clm/reviews",
+      "page": 1
+    },
+    {
+      "id": "ironclad",
+      "name": "Ironclad",
+      "url": "https://www.g2.com/products/ironclad/reviews",
+      "page": 1
+    },
+    {
+      "id": "linksquares",
+      "name": "LinkSquares",
+      "url": "https://www.g2.com/products/linksquares/reviews",
+      "page": 1
+    },
+    {
+      "id": "juro",
+      "name": "Juro",
+      "url": "https://www.g2.com/products/juro/reviews",
+      "page": 1
+    },
+    {
+      "id": "agentforce-revenue-management-formerly-salesforce-revenue-cloud",
+      "name": "Agentforce Revenue...",
+      "url": "https://www.g2.com/products/agentforce-revenue-management-formerly-salesforce-revenue-cloud/reviews",
+      "page": 1
+    },
+    {
+      "id": "sap-ariba",
+      "name": "SAP Ariba",
+      "url": "https://www.g2.com/products/sap-ariba/reviews",
+      "page": 1
+    },
+    {
+      "id": "sirion-clm",
+      "name": "Sirion CLM",
+      "url": "https://www.g2.com/products/sirion-clm/reviews",
+      "page": 1
+    },
+    {
+      "id": "legistify-legistify",
+      "name": "Legistify",
+      "url": "https://www.g2.com/products/legistify-legistify/reviews",
+      "page": 1
+    },
+    {
+      "id": "summize",
+      "name": "Summize",
+      "url": "https://www.g2.com/products/summize/reviews",
+      "page": 1
+    },
+    {
+      "id": "spotdraft",
+      "name": "SpotDraft",
+      "url": "https://www.g2.com/products/spotdraft/reviews",
+      "page": 1
+    },
+    {
+      "id": "workday-strategic-sourcing",
+      "name": "Workday Strategic Sourcing",
+      "url": "https://www.g2.com/products/workday-strategic-sourcing/reviews",
+      "page": 1
+    },
+    {
+      "id": "lawvu",
+      "name": "LawVu",
+      "url": "https://www.g2.com/products/lawvu/reviews",
+      "page": 1
+    },
+    {
+      "id": "lexion",
+      "name": "Lexion",
+      "url": "https://www.g2.com/products/lexion/reviews",
+      "page": 1
+    },
+    {
+      "id": "dealhub-ai",
+      "name": "DealHub AI",
+      "url": "https://www.g2.com/products/dealhub-ai/reviews",
+      "page": 1
+    },
+    {
+      "id": "zoho-contracts",
+      "name": "Zoho Contracts",
+      "url": "https://www.g2.com/products/zoho-contracts/reviews",
+      "page": 2
+    },
+    {
+      "id": "agiloft-agiloft-contract-management-suite",
+      "name": "Agiloft Contract Management...",
+      "url": "https://www.g2.com/products/agiloft-agiloft-contract-management-suite/reviews",
+      "page": 2
+    },
+    {
+      "id": "inhubber",
+      "name": "Inhubber",
+      "url": "https://www.g2.com/products/inhubber/reviews",
+      "page": 2
+    },
+    {
+      "id": "newgenone-digital-transformation-platform",
+      "name": "NewgenONE Digital...",
+      "url": "https://www.g2.com/products/newgenone-digital-transformation-platform/reviews",
+      "page": 2
+    },
+    {
+      "id": "leah-formerly-contractpodai-leah",
+      "name": "Leah",
+      "url": "https://www.g2.com/products/leah-formerly-contractpodai-leah/reviews",
+      "page": 2
+    },
+    {
+      "id": "contractsafe",
+      "name": "ContractSafe",
+      "url": "https://www.g2.com/products/contractsafe/reviews",
+      "page": 2
+    },
+    {
+      "id": "gatekeeper",
+      "name": "Gatekeeper",
+      "url": "https://www.g2.com/products/gatekeeper/reviews",
+      "page": 2
+    },
+    {
+      "id": "malbek",
+      "name": "Malbek",
+      "url": "https://www.g2.com/products/malbek/reviews",
+      "page": 2
+    },
+    {
+      "id": "razorsign",
+      "name": "RazorSign",
+      "url": "https://www.g2.com/products/razorsign/reviews",
+      "page": 2
+    },
+    {
+      "id": "icertis-contract-management-software",
+      "name": "Icertis Contract Management...",
+      "url": "https://www.g2.com/products/icertis-contract-management-software/reviews",
+      "page": 2
+    },
+    {
+      "id": "cobblestone-contract-insight",
+      "name": "CobbleStone Contract Insight",
+      "url": "https://www.g2.com/products/cobblestone-contract-insight/reviews",
+      "page": 2
+    },
+    {
+      "id": "workday-clm-powered-by-evisort",
+      "name": "Workday CLM, powered by...",
+      "url": "https://www.g2.com/products/workday-clm-powered-by-evisort/reviews",
+      "page": 2
+    },
+    {
+      "id": "volody-clm",
+      "name": "Volody CLM",
+      "url": "https://www.g2.com/products/volody-clm/reviews",
+      "page": 2
+    },
+    {
+      "id": "intelagree",
+      "name": "IntelAgree",
+      "url": "https://www.g2.com/products/intelagree/reviews",
+      "page": 2
+    },
+    {
+      "id": "oracle-procurement-cloud",
+      "name": "Oracle EPM Cloud",
+      "url": "https://www.g2.com/products/oracle-procurement-cloud/reviews",
+      "page": 2
+    },
+    {
+      "id": "fynk",
+      "name": "fynk",
+      "url": "https://www.g2.com/products/fynk/reviews",
+      "page": 3
+    },
+    {
+      "id": "zeal-g2",
+      "name": "Zeal",
+      "url": "https://www.g2.com/products/zeal-g2/reviews",
+      "page": 3
+    },
+    {
+      "id": "contracthero",
+      "name": "ContractHero",
+      "url": "https://www.g2.com/products/contracthero/reviews",
+      "page": 3
+    },
+    {
+      "id": "contractworks-an-onit-product",
+      "name": "ContractWorks, an Onit product",
+      "url": "https://www.g2.com/products/contractworks-an-onit-product/reviews",
+      "page": 3
+    },
+    {
+      "id": "jaggaer",
+      "name": "Jaggaer",
+      "url": "https://www.g2.com/products/jaggaer/reviews",
+      "page": 3
+    },
+    {
+      "id": "clm-365",
+      "name": "CLM 365",
+      "url": "https://www.g2.com/products/clm-365/reviews",
+      "page": 3
+    },
+    {
+      "id": "tomorro",
+      "name": "Tomorro",
+      "url": "https://www.g2.com/products/tomorro/reviews",
+      "page": 3
+    },
+    {
+      "id": "contractbook",
+      "name": "Contractbook",
+      "url": "https://www.g2.com/products/contractbook/reviews",
+      "page": 3
+    },
+    {
+      "id": "contract-logix",
+      "name": "Contract Logix",
+      "url": "https://www.g2.com/products/contract-logix/reviews",
+      "page": 3
+    },
+    {
+      "id": "aavenir-contract-lifecycle-management-clm",
+      "name": "Aavenir Contract Lifecycle...",
+      "url": "https://www.g2.com/products/aavenir-contract-lifecycle-management-clm/reviews",
+      "page": 3
+    },
+    {
+      "id": "aodocs",
+      "name": "AODocs",
+      "url": "https://www.g2.com/products/aodocs/reviews",
+      "page": 3
+    },
+    {
+      "id": "concord",
+      "name": "Concord",
+      "url": "https://www.g2.com/products/concord/reviews",
+      "page": 3
+    },
+    {
+      "id": "outlaw",
+      "name": "Outlaw",
+      "url": "https://www.g2.com/products/outlaw/reviews",
+      "page": 3
+    },
+    {
+      "id": "precisely-precisely",
+      "name": "Precisely",
+      "url": "https://www.g2.com/products/precisely-precisely/reviews",
+      "page": 3
+    },
+    {
+      "id": "basware-basware",
+      "name": "Basware",
+      "url": "https://www.g2.com/products/basware-basware/reviews",
+      "page": 3
+    },
+    {
+      "id": "simplicontract",
+      "name": "SimpliContract",
+      "url": "https://www.g2.com/products/simplicontract/reviews",
+      "page": 4
+    },
+    {
+      "id": "contractzy",
+      "name": "Contractzy",
+      "url": "https://www.g2.com/products/contractzy/reviews",
+      "page": 4
+    },
+    {
+      "id": "oneflow",
+      "name": "Oneflow",
+      "url": "https://www.g2.com/products/oneflow/reviews",
+      "page": 4
+    },
+    {
+      "id": "provakil",
+      "name": "Provakil",
+      "url": "https://www.g2.com/products/provakil/reviews",
+      "page": 4
+    },
+    {
+      "id": "legalsifter-reviewpro",
+      "name": "LegalSifter ReviewPro",
+      "url": "https://www.g2.com/products/legalsifter-reviewpro/reviews",
+      "page": 4
+    },
+    {
+      "id": "legito",
+      "name": "Legito",
+      "url": "https://www.g2.com/products/legito/reviews",
+      "page": 4
+    },
+    {
+      "id": "onspring",
+      "name": "Onspring",
+      "url": "https://www.g2.com/products/onspring/reviews",
+      "page": 4
+    },
+    {
+      "id": "incloud-llc-ontra",
+      "name": "Ontra",
+      "url": "https://www.g2.com/products/incloud-llc-ontra/reviews",
+      "page": 4
+    },
+    {
+      "id": "r2-docuo",
+      "name": "R2 Docuo",
+      "url": "https://www.g2.com/products/r2-docuo/reviews",
+      "page": 4
+    },
+    {
+      "id": "webdox-clm",
+      "name": "Webdox CLM",
+      "url": "https://www.g2.com/products/webdox-clm/reviews",
+      "page": 4
+    },
+    {
+      "id": "highq",
+      "name": "HighQ",
+      "url": "https://www.g2.com/products/highq/reviews",
+      "page": 4
+    },
+    {
+      "id": "lightsource",
+      "name": "LightSource",
+      "url": "https://www.g2.com/products/lightsource/reviews",
+      "page": 4
+    },
+    {
+      "id": "hyperstart-clm",
+      "name": "HyperStart CLM",
+      "url": "https://www.g2.com/products/hyperstart-clm/reviews",
+      "page": 4
+    },
+    {
+      "id": "medius",
+      "name": "Medius",
+      "url": "https://www.g2.com/products/medius/reviews",
+      "page": 4
+    },
+    {
+      "id": "vendortell",
+      "name": "Vendortell",
+      "url": "https://www.g2.com/products/vendortell/reviews",
+      "page": 4
+    },
+    {
+      "id": "docarrow",
+      "name": "DocArrow",
+      "url": "https://www.g2.com/products/docarrow/reviews",
+      "page": 5
+    },
+    {
+      "id": "lighthub",
+      "name": "LightHub",
+      "url": "https://www.g2.com/products/lighthub/reviews",
+      "page": 5
+    },
+    {
+      "id": "portant",
+      "name": "Portant",
+      "url": "https://www.g2.com/products/portant/reviews",
+      "page": 5
+    },
+    {
+      "id": "robin-2025-07-08",
+      "name": "Robin",
+      "url": "https://www.g2.com/products/robin-2025-07-08/reviews",
+      "page": 5
+    },
+    {
+      "id": "zycus-zycus-icontract",
+      "name": "Zycus-iContract",
+      "url": "https://www.g2.com/products/zycus-zycus-icontract/reviews",
+      "page": 5
+    },
+    {
+      "id": "createiq",
+      "name": "CreateiQ",
+      "url": "https://www.g2.com/products/createiq/reviews",
+      "page": 5
+    },
+    {
+      "id": "fortva",
+      "name": "Fortva",
+      "url": "https://www.g2.com/products/fortva/reviews",
+      "page": 5
+    },
+    {
+      "id": "ivoai",
+      "name": "Ivo",
+      "url": "https://www.g2.com/products/ivoai/reviews",
+      "page": 5
+    },
+    {
+      "id": "koho-consulting",
+      "name": "Koho Consulting",
+      "url": "https://www.g2.com/products/koho-consulting/reviews",
+      "page": 5
+    },
+    {
+      "id": "pactly",
+      "name": "Pactly",
+      "url": "https://www.g2.com/products/pactly/reviews",
+      "page": 5
+    },
+    {
+      "id": "pramata",
+      "name": "Pramata",
+      "url": "https://www.g2.com/products/pramata/reviews",
+      "page": 5
+    },
+    {
+      "id": "revnue",
+      "name": "Revnue",
+      "url": "https://www.g2.com/products/revnue/reviews",
+      "page": 5
+    },
+    {
+      "id": "smartcontract",
+      "name": "smartContract",
+      "url": "https://www.g2.com/products/smartcontract/reviews",
+      "page": 5
+    },
+    {
+      "id": "zycus-source-to-pay",
+      "name": "Zycus Source-to-Pay",
+      "url": "https://www.g2.com/products/zycus-source-to-pay/reviews",
+      "page": 5
+    },
+    {
+      "id": "bind-2026-01-05",
+      "name": "Bind",
+      "url": "https://www.g2.com/products/bind-2026-01-05/reviews",
+      "page": 5
+    },
+    {
+      "id": "clauseclm",
+      "name": "ClauseClm",
+      "url": "https://www.g2.com/products/clauseclm/reviews",
+      "page": 6
+    },
+    {
+      "id": "clearcontract",
+      "name": "ClearContract",
+      "url": "https://www.g2.com/products/clearcontract/reviews",
+      "page": 6
+    },
+    {
+      "id": "contractmetric",
+      "name": "ContractMetric",
+      "url": "https://www.g2.com/products/contractmetric/reviews",
+      "page": 6
+    },
+    {
+      "id": "contractspan",
+      "name": "ContractSPAN",
+      "url": "https://www.g2.com/products/contractspan/reviews",
+      "page": 6
+    },
+    {
+      "id": "contractvaz",
+      "name": "ContractVaz",
+      "url": "https://www.g2.com/products/contractvaz/reviews",
+      "page": 6
+    },
+    {
+      "id": "docfield",
+      "name": "Docfield",
+      "url": "https://www.g2.com/products/docfield/reviews",
+      "page": 6
+    },
+    {
+      "id": "docs2dates",
+      "name": "Docs2Dates",
+      "url": "https://www.g2.com/products/docs2dates/reviews",
+      "page": 6
+    },
+    {
+      "id": "grip-contract-dashboard",
+      "name": "GRIP Contract Dashboard",
+      "url": "https://www.g2.com/products/grip-contract-dashboard/reviews",
+      "page": 6
+    },
+    {
+      "id": "initio-initio",
+      "name": "Initio",
+      "url": "https://www.g2.com/products/initio-initio/reviews",
+      "page": 6
+    },
+    {
+      "id": "ispnext",
+      "name": "ISPnext",
+      "url": "https://www.g2.com/products/ispnext/reviews",
+      "page": 6
+    },
+    {
+      "id": "legitt-legitt-ai",
+      "name": "Legitt AI",
+      "url": "https://www.g2.com/products/legitt-legitt-ai/reviews",
+      "page": 6
+    },
+    {
+      "id": "lexilio",
+      "name": "Lexilio",
+      "url": "https://www.g2.com/products/lexilio/reviews",
+      "page": 6
+    },
+    {
+      "id": "merlin-sourcing",
+      "name": "MeRLIN Sourcing",
+      "url": "https://www.g2.com/products/merlin-sourcing/reviews",
+      "page": 6
+    },
+    {
+      "id": "miramis-technologies",
+      "name": "Miramis Technologies",
+      "url": "https://www.g2.com/products/miramis-technologies/reviews",
+      "page": 6
+    },
+    {
+      "id": "next-renewal",
+      "name": "Next Renewal",
+      "url": "https://www.g2.com/products/next-renewal/reviews",
+      "page": 6
+    },
+    {
+      "id": "onitx-contract-lifecycle-management",
+      "name": "OnitX Contract Lifecycle...",
+      "url": "https://www.g2.com/products/onitx-contract-lifecycle-management/reviews",
+      "page": 7
+    },
+    {
+      "id": "opentext-process-automation",
+      "name": "OpenText Process Automation",
+      "url": "https://www.g2.com/products/opentext-process-automation/reviews",
+      "page": 7
+    },
+    {
+      "id": "pactolane",
+      "name": "Pactolane",
+      "url": "https://www.g2.com/products/pactolane/reviews",
+      "page": 7
+    },
+    {
+      "id": "sendersignal",
+      "name": "SenderSignal",
+      "url": "https://www.g2.com/products/sendersignal/reviews",
+      "page": 7
+    },
+    {
+      "id": "technomile-contracts-suite",
+      "name": "TechnoMile Contracts Suite",
+      "url": "https://www.g2.com/products/technomile-contracts-suite/reviews",
+      "page": 7
+    },
+    {
+      "id": "crushcontracts-zoey",
+      "name": "Zoey",
+      "url": "https://www.g2.com/products/crushcontracts-zoey/reviews",
+      "page": 7
+    },
+    {
+      "id": "2agree",
+      "name": "2Agree",
+      "url": "https://www.g2.com/products/2agree/reviews",
+      "page": 7
+    },
+    {
+      "id": "aavenir-contractlflow",
+      "name": "Aavenir Contractlflow",
+      "url": "https://www.g2.com/products/aavenir-contractlflow/reviews",
+      "page": 7
+    },
+    {
+      "id": "acquirell",
+      "name": "Acquirell",
+      "url": "https://www.g2.com/products/acquirell/reviews",
+      "page": 7
+    },
+    {
+      "id": "advocat",
+      "name": "Advocat",
+      "url": "https://www.g2.com/products/advocat/reviews",
+      "page": 7
+    },
+    {
+      "id": "agreement-paper",
+      "name": "Agreement Paper",
+      "url": "https://www.g2.com/products/agreement-paper/reviews",
+      "page": 7
+    },
+    {
+      "id": "ai-contract-management-platform",
+      "name": "AI Contract Management...",
+      "url": "https://www.g2.com/products/ai-contract-management-platform/reviews",
+      "page": 7
+    },
+    {
+      "id": "aidocx",
+      "name": "AiDocX",
+      "url": "https://www.g2.com/products/aidocx/reviews",
+      "page": 7
+    },
+    {
+      "id": "air-cre-contracts",
+      "name": "AIR CRE Contracts",
+      "url": "https://www.g2.com/products/air-cre-contracts/reviews",
+      "page": 7
+    },
+    {
+      "id": "aitenders",
+      "name": "Aitenders",
+      "url": "https://www.g2.com/products/aitenders/reviews",
+      "page": 7
+    },
+    {
+      "id": "alina-clause-clm",
+      "name": "Alina Clause CLM",
+      "url": "https://www.g2.com/products/alina-clause-clm/reviews",
+      "page": 8
+    },
+    {
+      "id": "anapact",
+      "name": "Anapact",
+      "url": "https://www.g2.com/products/anapact/reviews",
+      "page": 8
+    },
+    {
+      "id": "atamis-ltd",
+      "name": "Atamis Ltd",
+      "url": "https://www.g2.com/products/atamis-ltd/reviews",
+      "page": 8
+    },
+    {
+      "id": "aviara-connect",
+      "name": "Aviara Connect",
+      "url": "https://www.g2.com/products/aviara-connect/reviews",
+      "page": 8
+    },
+    {
+      "id": "avokaado",
+      "name": "Avokaado",
+      "url": "https://www.g2.com/products/avokaado/reviews",
+      "page": 8
+    },
+    {
+      "id": "axsar",
+      "name": "AXSAR",
+      "url": "https://www.g2.com/products/axsar/reviews",
+      "page": 8
+    },
+    {
+      "id": "bellwatch",
+      "name": "Bellwatch",
+      "url": "https://www.g2.com/products/bellwatch/reviews",
+      "page": 8
+    },
+    {
+      "id": "btob-platform-contract",
+      "name": "BtoB Platform Contract",
+      "url": "https://www.g2.com/products/btob-platform-contract/reviews",
+      "page": 8
+    },
+    {
+      "id": "canveo",
+      "name": "Canveo",
+      "url": "https://www.g2.com/products/canveo/reviews",
+      "page": 8
+    },
+    {
+      "id": "casedocker",
+      "name": "CaseDocker",
+      "url": "https://www.g2.com/products/casedocker/reviews",
+      "page": 8
+    },
+    {
+      "id": "cequence-clm",
+      "name": "Cequence CLM",
+      "url": "https://www.g2.com/products/cequence-clm/reviews",
+      "page": 8
+    },
+    {
+      "id": "cicloudpro",
+      "name": "CiCloudPro",
+      "url": "https://www.g2.com/products/cicloudpro/reviews",
+      "page": 8
+    },
+    {
+      "id": "clauseguide",
+      "name": "ClauseGuide",
+      "url": "https://www.g2.com/products/clauseguide/reviews",
+      "page": 8
+    },
+    {
+      "id": "clauseshift",
+      "name": "ClauseShift",
+      "url": "https://www.g2.com/products/clauseshift/reviews",
+      "page": 8
+    },
+    {
+      "id": "clm-portal-task-manager",
+      "name": "CLM Portal & Task Manager",
+      "url": "https://www.g2.com/products/clm-portal-task-manager/reviews",
+      "page": 8
+    },
+    {
+      "id": "cloud-contracts-365",
+      "name": "Cloud Contracts 365",
+      "url": "https://www.g2.com/products/cloud-contracts-365/reviews",
+      "page": 9
+    },
+    {
+      "id": "cogs-z-profitability-intelligence",
+      "name": "Cogs'z Profitability...",
+      "url": "https://www.g2.com/products/cogs-z-profitability-intelligence/reviews",
+      "page": 9
+    },
+    {
+      "id": "comforce",
+      "name": "Comforce",
+      "url": "https://www.g2.com/products/comforce/reviews",
+      "page": 9
+    },
+    {
+      "id": "conga-contracts-2026-08-20",
+      "name": "Conga Contracts",
+      "url": "https://www.g2.com/products/conga-contracts-2026-08-20/reviews",
+      "page": 9
+    },
+    {
+      "id": "conneto",
+      "name": "Conneto",
+      "url": "https://www.g2.com/products/conneto/reviews",
+      "page": 9
+    },
+    {
+      "id": "barhead-consensus",
+      "name": "Consensus",
+      "url": "https://www.g2.com/products/barhead-consensus/reviews",
+      "page": 9
+    },
+    {
+      "id": "consolidocs",
+      "name": "Consolidocs",
+      "url": "https://www.g2.com/products/consolidocs/reviews",
+      "page": 9
+    },
+    {
+      "id": "contracko",
+      "name": "Contracko",
+      "url": "https://www.g2.com/products/contracko/reviews",
+      "page": 9
+    },
+    {
+      "id": "contract-administration-software",
+      "name": "Contract Administration...",
+      "url": "https://www.g2.com/products/contract-administration-software/reviews",
+      "page": 9
+    },
+    {
+      "id": "contract-ai",
+      "name": "Contract AI",
+      "url": "https://www.g2.com/products/contract-ai/reviews",
+      "page": 9
+    },
+    {
+      "id": "contractam",
+      "name": "Contractam",
+      "url": "https://www.g2.com/products/contractam/reviews",
+      "page": 9
+    },
+    {
+      "id": "contractcontrol",
+      "name": "ContractControl",
+      "url": "https://www.g2.com/products/contractcontrol/reviews",
+      "page": 9
+    },
+    {
+      "id": "avantedge-group-contract-corridor",
+      "name": "Contract Corridor",
+      "url": "https://www.g2.com/products/avantedge-group-contract-corridor/reviews",
+      "page": 9
+    },
+    {
+      "id": "contract-flash",
+      "name": "Contract Flash",
+      "url": "https://www.g2.com/products/contract-flash/reviews",
+      "page": 9
+    },
+    {
+      "id": "contractli-2025-01-02",
+      "name": "Contractli",
+      "url": "https://www.g2.com/products/contractli-2025-01-02/reviews",
+      "page": 9
+    },
+    {
+      "id": "brooklyn-solutions-contract-lifecycle-management",
+      "name": "Contract Lifecycle Management",
+      "url": "https://www.g2.com/products/brooklyn-solutions-contract-lifecycle-management/reviews",
+      "page": 10
+    },
+    {
+      "id": "contract-lifecycle-management-software",
+      "name": "Contract Lifecycle...",
+      "url": "https://www.g2.com/products/contract-lifecycle-management-software/reviews",
+      "page": 10
+    },
+    {
+      "id": "aufait-technologies-contract-management-system",
+      "name": "Contract Management System",
+      "url": "https://www.g2.com/products/aufait-technologies-contract-management-system/reviews",
+      "page": 10
+    },
+    {
+      "id": "contractmanager",
+      "name": "ContractManager",
+      "url": "https://www.g2.com/products/contractmanager/reviews",
+      "page": 10
+    },
+    {
+      "id": "contract-renewal-monitor",
+      "name": "Contract Renewal Monitor",
+      "url": "https://www.g2.com/products/contract-renewal-monitor/reviews",
+      "page": 10
+    },
+    {
+      "id": "contract-review-ai",
+      "name": "Contract Review AI",
+      "url": "https://www.g2.com/products/contract-review-ai/reviews",
+      "page": 10
+    },
+    {
+      "id": "contracts-365",
+      "name": "Contracts 365",
+      "url": "https://www.g2.com/products/contracts-365/reviews",
+      "page": 10
+    },
+    {
+      "id": "contracts-clm",
+      "name": "ContractS CLM",
+      "url": "https://www.g2.com/products/contracts-clm/reviews",
+      "page": 10
+    },
+    {
+      "id": "contracts-register",
+      "name": "Contracts Register",
+      "url": "https://www.g2.com/products/contracts-register/reviews",
+      "page": 10
+    },
+    {
+      "id": "contractsuite",
+      "name": "ContractSuite",
+      "url": "https://www.g2.com/products/contractsuite/reviews",
+      "page": 10
+    },
+    {
+      "id": "contraktor",
+      "name": "Contraktor",
+      "url": "https://www.g2.com/products/contraktor/reviews",
+      "page": 10
+    },
+    {
+      "id": "contraqto",
+      "name": "Contraqto",
+      "url": "https://www.g2.com/products/contraqto/reviews",
+      "page": 10
+    },
+    {
+      "id": "contrasync",
+      "name": "Contrasync",
+      "url": "https://www.g2.com/products/contrasync/reviews",
+      "page": 10
+    },
+    {
+      "id": "crown-digital-contract-management",
+      "name": "Crown Digital Contract...",
+      "url": "https://www.g2.com/products/crown-digital-contract-management/reviews",
+      "page": 10
+    },
+    {
+      "id": "ctrax",
+      "name": "CTrax",
+      "url": "https://www.g2.com/products/ctrax/reviews",
+      "page": 10
+    },
+    {
+      "id": "cucontract",
+      "name": "cuContract",
+      "url": "https://www.g2.com/products/cucontract/reviews",
+      "page": 11
+    },
+    {
+      "id": "decot",
+      "name": "decot",
+      "url": "https://www.g2.com/products/decot/reviews",
+      "page": 11
+    },
+    {
+      "id": "dependable-rights-manager",
+      "name": "Dependable Rights Manager",
+      "url": "https://www.g2.com/products/dependable-rights-manager/reviews",
+      "page": 11
+    },
+    {
+      "id": "docminder-contract-life-cycle-management",
+      "name": "DocMinder Contract Life...",
+      "url": "https://www.g2.com/products/docminder-contract-life-cycle-management/reviews",
+      "page": 11
+    },
+    {
+      "id": "docublock",
+      "name": "DocuBlock",
+      "url": "https://www.g2.com/products/docublock/reviews",
+      "page": 11
+    },
+    {
+      "id": "docucollab-contract-management-software",
+      "name": "DocuCollab Contract...",
+      "url": "https://www.g2.com/products/docucollab-contract-management-software/reviews",
+      "page": 11
+    },
+    {
+      "id": "docvize",
+      "name": "Docvize",
+      "url": "https://www.g2.com/products/docvize/reviews",
+      "page": 11
+    },
+    {
+      "id": "dolphin-365",
+      "name": "Dolphin 365",
+      "url": "https://www.g2.com/products/dolphin-365/reviews",
+      "page": 11
+    },
+    {
+      "id": "dottsign",
+      "name": "DottSign",
+      "url": "https://www.g2.com/products/dottsign/reviews",
+      "page": 11
+    },
+    {
+      "id": "doxpri",
+      "name": "Doxpri",
+      "url": "https://www.g2.com/products/doxpri/reviews",
+      "page": 11
+    },
+    {
+      "id": "easy-software-ag-easy-contract",
+      "name": "easy contract",
+      "url": "https://www.g2.com/products/easy-software-ag-easy-contract/reviews",
+      "page": 11
+    },
+    {
+      "id": "easylex",
+      "name": "EasyLex",
+      "url": "https://www.g2.com/products/easylex/reviews",
+      "page": 11
+    },
+    {
+      "id": "econtrack",
+      "name": "eContrack",
+      "url": "https://www.g2.com/products/econtrack/reviews",
+      "page": 11
+    },
+    {
+      "id": "ecteon-contraxx",
+      "name": "Ecteon Contraxx",
+      "url": "https://www.g2.com/products/ecteon-contraxx/reviews",
+      "page": 11
+    },
+    {
+      "id": "efnpro",
+      "name": "EFNpro",
+      "url": "https://www.g2.com/products/efnpro/reviews",
+      "page": 11
+    },
+    {
+      "id": "elitecontract",
+      "name": "EliteContract",
+      "url": "https://www.g2.com/products/elitecontract/reviews",
+      "page": 12
+    },
+    {
+      "id": "esign-ai",
+      "name": "eSign.AI",
+      "url": "https://www.g2.com/products/esign-ai/reviews",
+      "page": 12
+    },
+    {
+      "id": "e-tract",
+      "name": "e.tract",
+      "url": "https://www.g2.com/products/e-tract/reviews",
+      "page": 12
+    },
+    {
+      "id": "flipthrough",
+      "name": "FlipThrough",
+      "url": "https://www.g2.com/products/flipthrough/reviews",
+      "page": 12
+    },
+    {
+      "id": "formable-formable",
+      "name": "Formable",
+      "url": "https://www.g2.com/products/formable-formable/reviews",
+      "page": 12
+    },
+    {
+      "id": "fusial",
+      "name": "Fusial",
+      "url": "https://www.g2.com/products/fusial/reviews",
+      "page": 12
+    },
+    {
+      "id": "gestidoc-contratos",
+      "name": "Gestidoc Contratos",
+      "url": "https://www.g2.com/products/gestidoc-contratos/reviews",
+      "page": 12
+    },
+    {
+      "id": "gino-legaltech",
+      "name": "Gino LegalTech",
+      "url": "https://www.g2.com/products/gino-legaltech/reviews",
+      "page": 12
+    },
+    {
+      "id": "govcomply",
+      "name": "GovComply",
+      "url": "https://www.g2.com/products/govcomply/reviews",
+      "page": 12
+    },
+    {
+      "id": "goveliro",
+      "name": "Goveliro",
+      "url": "https://www.g2.com/products/goveliro/reviews",
+      "page": 12
+    },
+    {
+      "id": "holo-vmo",
+      "name": "HOLO VMO",
+      "url": "https://www.g2.com/products/holo-vmo/reviews",
+      "page": 12
+    },
+    {
+      "id": "inkdraft",
+      "name": "InkDraft",
+      "url": "https://www.g2.com/products/inkdraft/reviews",
+      "page": 12
+    },
+    {
+      "id": "intellicontract-ai",
+      "name": "Intellicontract AI",
+      "url": "https://www.g2.com/products/intellicontract-ai/reviews",
+      "page": 12
+    },
+    {
+      "id": "ioumi",
+      "name": "ioumi",
+      "url": "https://www.g2.com/products/ioumi/reviews",
+      "page": 12
+    },
+    {
+      "id": "knowliah",
+      "name": "Knowliah",
+      "url": "https://www.g2.com/products/knowliah/reviews",
+      "page": 12
+    },
+    {
+      "id": "stp-one-knowliah",
+      "name": "Knowliah",
+      "url": "https://www.g2.com/products/stp-one-knowliah/reviews",
+      "page": 13
+    },
+    {
+      "id": "ksl-contract-manager",
+      "name": "KSL Contract Manager",
+      "url": "https://www.g2.com/products/ksl-contract-manager/reviews",
+      "page": 13
+    },
+    {
+      "id": "lawvek",
+      "name": "Lawvek",
+      "url": "https://www.g2.com/products/lawvek/reviews",
+      "page": 13
+    },
+    {
+      "id": "legalflo",
+      "name": "Legalflo",
+      "url": "https://www.g2.com/products/legalflo/reviews",
+      "page": 13
+    },
+    {
+      "id": "le-techs-digital-contract",
+      "name": "Le-Techs Digital Contract",
+      "url": "https://www.g2.com/products/le-techs-digital-contract/reviews",
+      "page": 13
+    },
+    {
+      "id": "lexnus",
+      "name": "Lexnus",
+      "url": "https://www.g2.com/products/lexnus/reviews",
+      "page": 13
+    },
+    {
+      "id": "licenseiq",
+      "name": "LicenseIQ",
+      "url": "https://www.g2.com/products/licenseiq/reviews",
+      "page": 13
+    },
+    {
+      "id": "linte",
+      "name": "Linte",
+      "url": "https://www.g2.com/products/linte/reviews",
+      "page": 13
+    },
+    {
+      "id": "melento-clm",
+      "name": "Melento CLM",
+      "url": "https://www.g2.com/products/melento-clm/reviews",
+      "page": 13
+    },
+    {
+      "id": "midly-ai",
+      "name": "Midly.ai",
+      "url": "https://www.g2.com/products/midly-ai/reviews",
+      "page": 13
+    },
+    {
+      "id": "money-forward-cloud-contract",
+      "name": "Money Forward Cloud Contract",
+      "url": "https://www.g2.com/products/money-forward-cloud-contract/reviews",
+      "page": 13
+    },
+    {
+      "id": "mylegitech",
+      "name": "MYLEGITECH",
+      "url": "https://www.g2.com/products/mylegitech/reviews",
+      "page": 13
+    },
+    {
+      "id": "negotiatepro",
+      "name": "negotiatepro",
+      "url": "https://www.g2.com/products/negotiatepro/reviews",
+      "page": 13
+    },
+    {
+      "id": "netlex",
+      "name": "netLex",
+      "url": "https://www.g2.com/products/netlex/reviews",
+      "page": 13
+    },
+    {
+      "id": "nomio",
+      "name": "Nomio",
+      "url": "https://www.g2.com/products/nomio/reviews",
+      "page": 13
+    },
+    {
+      "id": "octave-loop-contracts",
+      "name": "Octave Loop Contracts",
+      "url": "https://www.g2.com/products/octave-loop-contracts/reviews",
+      "page": 14
+    },
+    {
+      "id": "optimus-bt-econtracts",
+      "name": "eContracts",
+      "url": "https://www.g2.com/products/optimus-bt-econtracts/reviews",
+      "page": 14
+    },
+    {
+      "id": "orbital-copilot",
+      "name": "Orbital Copilot",
+      "url": "https://www.g2.com/products/orbital-copilot/reviews",
+      "page": 14
+    },
+    {
+      "id": "orbital-copilot-orbital-copilot",
+      "name": "Orbital Copilot",
+      "url": "https://www.g2.com/products/orbital-copilot-orbital-copilot/reviews",
+      "page": 14
+    },
+    {
+      "id": "owndup",
+      "name": "OwndUp",
+      "url": "https://www.g2.com/products/owndup/reviews",
+      "page": 14
+    },
+    {
+      "id": "pactalert",
+      "name": "PactAlert",
+      "url": "https://www.g2.com/products/pactalert/reviews",
+      "page": 14
+    },
+    {
+      "id": "pactcentral",
+      "name": "PactCentral",
+      "url": "https://www.g2.com/products/pactcentral/reviews",
+      "page": 14
+    },
+    {
+      "id": "pactiamo",
+      "name": "Pactiamo",
+      "url": "https://www.g2.com/products/pactiamo/reviews",
+      "page": 14
+    },
+    {
+      "id": "pactifi",
+      "name": "Pactifi",
+      "url": "https://www.g2.com/products/pactifi/reviews",
+      "page": 14
+    },
+    {
+      "id": "innoverse-technologies-gmbh-pactify",
+      "name": "Pactify",
+      "url": "https://www.g2.com/products/innoverse-technologies-gmbh-pactify/reviews",
+      "page": 14
+    },
+    {
+      "id": "pactum-contractbeheer",
+      "name": "Pactum Contractbeheer",
+      "url": "https://www.g2.com/products/pactum-contractbeheer/reviews",
+      "page": 14
+    },
+    {
+      "id": "paperwork-paperwork",
+      "name": "Paperwork",
+      "url": "https://www.g2.com/products/paperwork-paperwork/reviews",
+      "page": 14
+    },
+    {
+      "id": "omega-pims-contract-management",
+      "name": "Pims Contract Management",
+      "url": "https://www.g2.com/products/omega-pims-contract-management/reviews",
+      "page": 14
+    },
+    {
+      "id": "pims-contract-management",
+      "name": "Pims Contract Management",
+      "url": "https://www.g2.com/products/pims-contract-management/reviews",
+      "page": 14
+    },
+    {
+      "id": "practice-managerpro",
+      "name": "Practice ManagerPro",
+      "url": "https://www.g2.com/products/practice-managerpro/reviews",
+      "page": 14
+    },
+    {
+      "id": "precisely-2026-08-19",
+      "name": "Precisely",
+      "url": "https://www.g2.com/products/precisely-2026-08-19/reviews",
+      "page": 15
+    },
+    {
+      "id": "programmatic",
+      "name": "Programmatic",
+      "url": "https://www.g2.com/products/programmatic/reviews",
+      "page": 15
+    },
+    {
+      "id": "programmatic-studio-clm",
+      "name": "Programmatic Studio (CLM)",
+      "url": "https://www.g2.com/products/programmatic-studio-clm/reviews",
+      "page": 15
+    },
+    {
+      "id": "quoqo-fusion",
+      "name": "Quoqo Fusion",
+      "url": "https://www.g2.com/products/quoqo-fusion/reviews",
+      "page": 15
+    },
+    {
+      "id": "ratifyly",
+      "name": "Ratifyly",
+      "url": "https://www.g2.com/products/ratifyly/reviews",
+      "page": 15
+    },
+    {
+      "id": "ready-contracts",
+      "name": "Ready Contracts",
+      "url": "https://www.g2.com/products/ready-contracts/reviews",
+      "page": 15
+    },
+    {
+      "id": "renewit360",
+      "name": "RenewIT360",
+      "url": "https://www.g2.com/products/renewit360/reviews",
+      "page": 15
+    },
+    {
+      "id": "renewly",
+      "name": "Renewly",
+      "url": "https://www.g2.com/products/renewly/reviews",
+      "page": 15
+    },
+    {
+      "id": "ricago-contracts-and-obligations-management-system",
+      "name": "ricago Contracts and...",
+      "url": "https://www.g2.com/products/ricago-contracts-and-obligations-management-system/reviews",
+      "page": 15
+    },
+    {
+      "id": "rilin",
+      "name": "Rilin",
+      "url": "https://www.g2.com/products/rilin/reviews",
+      "page": 15
+    },
+    {
+      "id": "riverus-contracts-platform",
+      "name": "Riverus Contracts Platform",
+      "url": "https://www.g2.com/products/riverus-contracts-platform/reviews",
+      "page": 15
+    },
+    {
+      "id": "sharecontrol-contract",
+      "name": "ShareControl Contract",
+      "url": "https://www.g2.com/products/sharecontrol-contract/reviews",
+      "page": 15
+    },
+    {
+      "id": "signus-ai",
+      "name": "Signus.ai",
+      "url": "https://www.g2.com/products/signus-ai/reviews",
+      "page": 15
+    },
+    {
+      "id": "smvrt-legal",
+      "name": "SMVRT Legal",
+      "url": "https://www.g2.com/products/smvrt-legal/reviews",
+      "page": 15
+    },
+    {
+      "id": "sp-contract-tracker",
+      "name": "SP Contract Tracker",
+      "url": "https://www.g2.com/products/sp-contract-tracker/reviews",
+      "page": 15
+    },
+    {
+      "id": "terzo",
+      "name": "Terzo",
+      "url": "https://www.g2.com/products/terzo/reviews",
+      "page": 16
+    },
+    {
+      "id": "tomorro-tomorro",
+      "name": "Tomorro",
+      "url": "https://www.g2.com/products/tomorro-tomorro/reviews",
+      "page": 16
+    },
+    {
+      "id": "tomorro-2026-08-26",
+      "name": "Tomorro",
+      "url": "https://www.g2.com/products/tomorro-2026-08-26/reviews",
+      "page": 16
+    },
+    {
+      "id": "top-legal",
+      "name": "top.legal",
+      "url": "https://www.g2.com/products/top-legal/reviews",
+      "page": 16
+    },
+    {
+      "id": "cogent-innovations-pvt-ltd-touchpoint",
+      "name": "TouchPoint",
+      "url": "https://www.g2.com/products/cogent-innovations-pvt-ltd-touchpoint/reviews",
+      "page": 16
+    },
+    {
+      "id": "tqg-business-app-platform",
+      "name": "TQG business App platform",
+      "url": "https://www.g2.com/products/tqg-business-app-platform/reviews",
+      "page": 16
+    },
+    {
+      "id": "trato",
+      "name": "TRATO",
+      "url": "https://www.g2.com/products/trato/reviews",
+      "page": 16
+    },
+    {
+      "id": "universal-contract-manager",
+      "name": "Universal Contract Manager",
+      "url": "https://www.g2.com/products/universal-contract-manager/reviews",
+      "page": 16
+    },
+    {
+      "id": "volody-volody-contract-lifecycle-management",
+      "name": "Volody Contract LifeCycle...",
+      "url": "https://www.g2.com/products/volody-volody-contract-lifecycle-management/reviews",
+      "page": 16
+    },
+    {
+      "id": "weagree-wizard",
+      "name": "Weagree Wizard",
+      "url": "https://www.g2.com/products/weagree-wizard/reviews",
+      "page": 16
+    },
+    {
+      "id": "weetrust",
+      "name": "weetrust",
+      "url": "https://www.g2.com/products/weetrust/reviews",
+      "page": 16
+    },
+    {
+      "id": "zcon",
+      "name": "Zcon",
+      "url": "https://www.g2.com/products/zcon/reviews",
+      "page": 16
+    },
+    {
+      "id": "zero-clm",
+      "name": "ZERO CLM",
+      "url": "https://www.g2.com/products/zero-clm/reviews",
+      "page": 16
+    },
+    {
+      "id": "zircolo",
+      "name": "Zircolo",
+      "url": "https://www.g2.com/products/zircolo/reviews",
+      "page": 16
+    }
+  ]
+}
