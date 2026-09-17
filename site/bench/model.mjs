@@ -138,7 +138,7 @@ export function report(input) {
     '', '## Requisitos obrigatórios (declarados por quem preenche)',
     ...selectedVendors(state).flatMap((v, vi) => gates.map((g, gi) => `${v.name} — ${g.name}: ${{pending:'A validar', pass:'Atende', fail:'Não atende'}[state.gates[vi][gi]]}`)),
     '', '## Como calculamos',
-    'Pontos = 100 × soma(peso × nota) ÷ (5 × soma dos pesos). Peso zero exclui. Critério sem avaliação não recebe zero: mostramos a faixa possível se as notas faltantes forem de 0 a 5, sem indicar vencedor. Cobertura é a proporção dos pesos com notas. Diferença menor que 5 pontos é resultado próximo. Veto exclui a opção da indicação; pendência impede concluir a compra.',
+    'As necessidades mais importantes para sua empresa influenciam mais o resultado. Itens com importância zero ficam de fora. Sem avaliação, o item permanece a validar: não é uma nota ruim. Enquanto faltarem respostas importantes, a decisão fica aberta. Resultados próximos pedem mais testes. Uma exigência obrigatória não atendida retira a ferramenta da indicação.',
     'Notas iniciais nos primeiros quatro eixos: Ironclad [5,5,4,4]; Luminance [2,2,5,5]. Demais capacidades: a validar. Fontes confirmam recursos anunciados, não notas ou superioridade.',
     '', '## Roteiro do piloto', ...criteria.filter((_, i) => state.weights[i] > 0).map(c => `- ${c.name}: ${c.test}`),
     '', `## Catálogo consultado em ${catalogMeta.checkedAt}`,
