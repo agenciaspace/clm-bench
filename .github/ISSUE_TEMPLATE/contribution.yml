@@ -1,0 +1,39 @@
+name: Critério, ferramenta ou evidência
+description: Ajude a melhorar uma decisão de CLM com contexto e fontes.
+title: "[contribuição] "
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Tipo
+      options: [Critério, Ferramenta, Experiência, Fonte, Correção]
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposta ou observação
+      description: Descreva o problema, a capacidade ou o ajuste. Não inclua conteúdo confidencial.
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto, edição e data
+      description: Tipo de contrato, volume aproximado, idiomas, sistemas envolvidos e quando avaliou.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidência e limites
+      description: Fonte pública, experiência prática ou hipótese. O que ainda precisa validar?
+    validations:
+      required: true
+  - type: dropdown
+    id: relationship
+    attributes:
+      label: Vínculo com o fornecedor
+      options: [Sem vínculo, Cliente ou usuário, Fornecedor, Parceiro ou consultor, Não se aplica]
+    validations:
+      required: true
