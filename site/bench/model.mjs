@@ -142,8 +142,8 @@ export function report(input) {
     'Notas iniciais nos primeiros quatro eixos: Ironclad [5,5,4,4]; Luminance [2,2,5,5]. Demais capacidades: a validar. Fontes confirmam recursos anunciados, não notas ou superioridade.',
     '', '## Roteiro do piloto', ...criteria.filter((_, i) => state.weights[i] > 0).map(c => `- ${c.name}: ${c.test}`),
     '', `## Catálogo consultado em ${catalogMeta.checkedAt}`,
-    'Cadastros de descoberta, não notas de capacidade. Recursos anunciados e adequação precisam ser validados no piloto. Notas e avaliações do G2 não entram na pontuação.',
-    ...selectedVendors(state).flatMap(v => [`### ${v.name}`, v.description, ...(v.sourceNote ? [v.sourceNote] : []), ...v.g2Listings.map(s => `- G2: ${s.url}`), ...(v.officialUrl ? [`- Fornecedor: ${v.officialUrl}`] : [])]),
+    'Cadastros de descoberta, não notas de capacidade. Recursos anunciados e adequação precisam ser validados no piloto. O catálogo não atribui notas de capacidade.',
+    ...selectedVendors(state).flatMap(v => [`### ${v.name}`, v.description, ...(v.sourceNote ? [v.sourceNote] : []), ...(v.officialUrl ? [`- Fornecedor: ${v.officialUrl}`] : [])]),
     '', '## Fontes consultadas em 17/09/2026', ...sources.map(s => `- ${s.title}: ${s.url}`),
     '', 'Modelo aberto: https://github.com/agenciaspace/clm-bench',
   ].join('\n');

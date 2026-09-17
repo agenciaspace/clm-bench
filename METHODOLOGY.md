@@ -32,8 +32,8 @@ A checklist registra conclusões declaradas pelo avaliador; marcar uma etapa nã
 
 ## Catálogo e seleção
 
-Consulta em 17/09/2026 às 16 páginas da [categoria de CLM do G2](https://www.g2.com/categories/contract-lifecycle-management-clm): 239 URLs de produtos, agrupadas por nomes idênticos, geram 233 entradas. Luminance, já presente no Bench, permanece como entrada adicional com seu perfil G2 separado. Todos os links de origem ficam preservados em `data/g2-clm-2026-09-17.json` e `catalog.mjs`. Agrupar nomes não comprova que as edições sejam equivalentes.
+Catálogo próprio, mantido pela comunidade, com 234 ferramentas iniciais. Descrições são resumos editoriais de escopo, não avaliações de qualidade. As referências de pesquisa ficam no histórico do repositório para auditoria; a interface e o relatório usam o catálogo da comunidade e, quando disponíveis, links oficiais dos fornecedores.
 
-Descrições são resumos próprios em português. Escopo é classificação editorial para descoberta; páginas insuficientes ou inconsistentes ficam sinalizadas. Não importamos estrelas, rankings nem depoimentos do G2 para a pontuação. Recursos e integrações precisam de evidência por edição e cenário. Novas opções têm 32 notas ausentes.
+Sugira inclusões e correções no formulário público ou em uma issue. Recursos e integrações precisam de evidência por edição e cenário. Novas opções têm 32 notas ausentes. A interface divide o preenchimento em três passos e mostra um grupo de critérios por vez, preservando as avaliações ao voltar.
 
 Compare de duas a quatro ferramentas por vez. A seleção e as notas são salvas por ID no navegador, inclusive ao remover e adicionar novamente. Links compartilhados incluem apenas a comparação ativa; excluem contexto da empresa, checklist e avaliações de ferramentas removidas. Links anteriores com duas ferramentas continuam válidos.

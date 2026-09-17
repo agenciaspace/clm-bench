@@ -8,9 +8,11 @@ test('catalog retains every discovered listing without manufacturing capability 
  const audit=JSON.parse(readFileSync(new URL('../data/g2-clm-2026-09-17.json',import.meta.url)));
  assert.equal(catalog.length,catalogMeta.toolCount);assert.equal(new Set(catalog.map(v=>v.id)).size,catalog.length);
  assert.equal(audit.listings.length,239);assert.equal(new Set(audit.listings.map(v=>v.url)).size,239);
- const urls=new Set(catalog.flatMap(v=>v.g2Listings.map(s=>s.url)));
+ const provenance=JSON.parse(readFileSync(new URL('../data/catalog-origin-audit.json',import.meta.url)));
+ const urls=new Set(provenance.flatMap(v=>v.listings.map(s=>s.url)));
+ assert.deepEqual(catalog.map(v=>v.id),provenance.map(v=>v.id));
  for(const listing of audit.listings)assert.ok(urls.has(listing.url));
- for(const v of vendors){assert.ok(v.description);assert.ok(v.g2Listings.every(s=>s.url.startsWith('https://www.g2.com/products/')));if(!['ironclad','luminance'].includes(v.id))assert.ok(v.scores.every(n=>n===null));}
+ for(const v of vendors){assert.ok(v.description);assert.equal(v.g2Listings,undefined);if(!['ironclad','luminance'].includes(v.id))assert.ok(v.scores.every(n=>n===null));}
 });
 test('selection reorders and restores evaluations by identity, without leaking scores between tools',()=>{
  let state=initialState();state.scores[0][12]=4;state.gates[0][2]='fail';state.profile.existing_tools='Private CRM';
@@ -31,5 +33,5 @@ test('shared links retain selection but exclude company context and inactive eva
 });
 test('new options cannot win from catalog membership and reports follow the chosen tools',()=>{
  const state=selectVendors(initialState(),[doc,'ironclad','luminance']);assert.equal(calculate(state).status,'incomplete');
- const text=report(state);assert.ok(text.includes('Docusign CLM (0–5)'));assert.ok(text.includes('https://www.g2.com/products/docusign-clm/reviews'));
+ const text=report(state);assert.ok(text.includes('Docusign CLM (0–5)'));assert.ok(!text.includes('g2.com'));assert.ok(!text.includes('G2'));
 });

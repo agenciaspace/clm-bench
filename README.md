@@ -6,14 +6,14 @@ Um processo público e open source para um departamento jurídico escolher e aco
 
 ## O que já funciona
 
-- Catálogo com 234 opções: os 239 cadastros das 16 páginas de CLM do G2 (17/09/2026), agrupados por nome, mais Luminance. Busca, filtros de escopo e comparação de duas a quatro ferramentas.
+- Catálogo próprio da comunidade com 234 opções, busca, filtros de escopo e comparação de duas a quatro ferramentas. Três passos: necessidade → ferramentas → avaliar, com um grupo de critérios por vez.
 - Diagnóstico de volume, legado, usuários, tipos de contrato, idiomas, ferramentas existentes e integrações obrigatórias. Contagem de sistemas e salvamento local no navegador.
 - 32 critérios em sete grupos, pesos de 0 a 5, notas editáveis, requisitos eliminatórios e roteiro de piloto. Todos os critérios começam com o mesmo peso.
 - Seis etapas com checklist: diagnóstico → requisitos → comparação → piloto → decisão → acompanhamento.
 - Relatório Markdown com contexto e etapas; link que compartilha apenas pesos, notas e requisitos; impressão; apresentação resumida com tela cheia.
 - No site oficial, formulário público de fontes, experiências, correções, ferramentas e critérios. Conteúdo recebido fica privado até revisão; email nunca aparece no feed. Código e critérios também recebem issues e PRs.
 
-A calculadora começa com Ironclad e Luminance. As notas dos quatro eixos originais são **hipóteses editoriais**, não desempenho medido. Os outros 28 critérios não têm nota inicial. Uma lacuna aparece como “a validar” e impede indicar vencedor. As demais ferramentas começam com todos os critérios sem nota. Adicionar uma ferramenta em `catalog.mjs` a disponibiliza na comparação, após revisão. Cadastros sem descrição suficiente ou com escopo adjacente são sinalizados; presença no G2 não certifica um CLM completo. Não há ranking coletivo automático nem endosso comercial.
+A calculadora começa com Ironclad e Luminance. As notas dos quatro eixos originais são **hipóteses editoriais**, não desempenho medido. Os outros 28 critérios não têm nota inicial. Uma lacuna aparece como “a validar” e impede indicar vencedor. As demais ferramentas começam com todos os critérios sem nota. Adicionar uma ferramenta em `catalog.mjs` a disponibiliza na comparação, após revisão. Cadastros sem descrição suficiente ou com escopo adjacente são sinalizados; presença no catálogo não certifica um CLM completo. Não há ranking coletivo automático nem endosso comercial.
 
 ## Executar localmente
 
@@ -36,7 +36,7 @@ A calculadora não precisa de conta, chave, banco ou instalação de dependênci
 |---|---|
 | `site/bench/framework.mjs` | Critérios, perguntas de avaliação, testes de piloto e etapas |
 | `site/bench/catalog.mjs` | Ferramentas, descrições breves, aliases, fontes e escopo |
-| `data/g2-clm-2026-09-17.json` | Índice dos 239 cadastros consultados e suas páginas de origem |
+| `data/` | Histórico de pesquisa e rastreabilidade; não faz parte da interface pública |
 | `site/bench/model.mjs` | Pesos, notas iniciais, fontes e cálculo explicável |
 | `site/bench/calculator.mjs` | Diagnóstico, comparação e exportação |
 | `site/bench/community.mjs` | Formulário e leitura das contribuições revisadas |
