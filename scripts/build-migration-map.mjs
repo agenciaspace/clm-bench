@@ -5,9 +5,10 @@ const data = JSON.parse(readFileSync(new URL('mapa.json', directory), 'utf8'));
 const esc = value => String(value).replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 function render(node) {
   if (node.type === 'text') return esc(node.text);
-  const tag = {doc:'div',paragraph:'p',heading:'h3',bulletList:'ul',orderedList:'ol',listItem:'li',blockquote:'blockquote',hardBreak:'br'}[node.type];
+  const tag = {doc:'div',paragraph:'p',heading:'h3',bulletList:'ul',orderedList:'ol',listItem:'li',blockquote:'blockquote',hardBreak:'br',taskList:'ul',taskItem:'li',table:'table',tableRow:'tr',tableCell:'td',tableHeader:'th'}[node.type];
   if (!tag) throw new Error(`Unsupported node: ${node.type}`);
-  return `<${tag}>${(node.content || []).map(render).join('')}</${tag}>`;
+  const html = `<${tag}${node.type==='taskList'?' class="map-task-list"':''}>${node.type==='taskItem'?(node.attrs?.checked?'☑ ':'☐ '):''}${(node.content || []).map(render).join('')}</${tag}>`;
+  return node.type==='table'?`<div class="map-table-wrap">${html}</div>`:html;
 }
 const stages = data.phases.map((phase, index) => `<section class="journey-phase" id="${phase.id}" aria-labelledby="title-${phase.id}"><div class="phase-heading"><p class="eyebrow">Fase ${index+1} de 4</p><h2 id="title-${phase.id}">${esc(phase.title)}</h2><p>${esc(phase.description)}</p></div>${data.stages.filter(stage => stage.phase === phase.id).map(stage => `<details id="${stage.id}" data-stage="${stage.position}"><summary><span class="number">${String(stage.position).padStart(2,'0')}</span><span>${esc(stage.title)}<small>${esc(stage.purpose)}</small></span></summary><div class="detail">${render(stage.content)}<a class="contribute" href="https://legalops.club/community/tools/mapa-contratos?section=${stage.id}">Comentar ou sugerir alteração →</a></div></details>`).join('\n')}</section>`).join('\n');
 const html = `<!doctype html>

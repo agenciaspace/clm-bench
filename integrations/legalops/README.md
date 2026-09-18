@@ -25,3 +25,24 @@ A migration preserva original, versão revisada e histórico. A política operac
 ## Instalação oficial
 
 A cola de autenticação, middleware e deploy está em [agenciaspace/legalops](https://github.com/agenciaspace/legalops). O envio não exige cadastro no Club; a revisão exige administrador. Não compartilhe chaves de serviço nem use a API oficial para publicar automaticamente conteúdo de forks.
+
+## Collaborative CLM migration documents
+
+`components/contract-map`, `lib/contract-map.ts`, `lib/map-diff.ts`, the map API
+routes and three map migrations are the MIT reference implementation used by
+LegalOps Club. See [collaboration/README.md](collaboration/README.md) for the
+self-hosted real-time server, security boundaries, persistence and tests.
+Install the versions in `collaboration/dependencies.json`, include
+`collaboration/editor.css`, and mount `MapWorkspace` in an authenticated page.
+Add `MapNotifications` to the community header for mention notifications.
+
+The adapter expects the host's `community_members`, Supabase session helpers,
+`hasActiveClubAccess` and `isDirectoryMember`. Apply migrations in order and
+replace the placeholder lead email in the initial migration. Existing sites
+must review their authorization model before adapting it. Do not copy the
+LegalOps production credentials, create mock members, or expose service keys.
+No private contributions or member profiles are included in this source.
+
+Features: quoted/versioned comments, replies/resolution, member mentions and
+private notifications, tables, checklists, shared drafts with authenticated
+presence, block-by-block lead review, approved revisions and version conflicts.
