@@ -48,3 +48,7 @@ Este repositório é a origem aberta do módulo. O deploy atual é integrado ao 
 ## Licença e dados
 
 Código e documentação original deste repositório: [MIT](LICENSE). Marcas e materiais externos continuam com seus titulares. Contribuições enviadas no site são publicadas mediante autorização no formulário e revisão; o banco de contatos privados não faz parte do repositório. Diagnósticos individuais permanecem no navegador até o próprio usuário exportar ou compartilhar.
+
+## Mapa de Gestão de Contratos
+
+O [mapa aberto](https://legalops.dev/mapa-contratos/) organiza oito etapas do ciclo contratual, com responsáveis sugeridos, perguntas, entregas e indicadores. A estrutura inicial é um ponto de partida para discussão e adaptação. Fonte em `site/mapa-contratos/`; dados reutilizáveis em `mapa.json`, sob a mesma licença MIT. Propostas podem ser enviadas por issue ou pull request e são incorporadas após revisão.
