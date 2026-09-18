@@ -49,6 +49,10 @@ Este repositório é a origem aberta do módulo. O deploy atual é integrado ao 
 
 Código e documentação original deste repositório: [MIT](LICENSE). Marcas e materiais externos continuam com seus titulares. Contribuições enviadas no site são publicadas mediante autorização no formulário e revisão; o banco de contatos privados não faz parte do repositório. Diagnósticos individuais permanecem no navegador até o próprio usuário exportar ou compartilhar.
 
-## Mapa de Gestão de Contratos
+## Migração de CLM
 
-O [mapa aberto](https://legalops.dev/mapa-contratos/) organiza oito etapas do ciclo contratual, com responsáveis sugeridos, perguntas, entregas e indicadores. A estrutura inicial é um ponto de partida para discussão e adaptação. Fonte em `site/mapa-contratos/`; dados reutilizáveis em `mapa.json`, sob a mesma licença MIT. Propostas podem ser enviadas por issue ou pull request e são incorporadas após revisão.
+A [jornada aberta](https://legalops.dev/mapa-contratos/) reúne 12 etapas em quatro fases: entender o jurídico, preparar a decisão, escolher a solução e fazer a mudança funcionar. Cada etapa traz cinco grupos de variáveis, responsáveis, entrega, condição para avançar e adaptação ao contexto. Serve ao primeiro CLM e à substituição do atual.
+
+Fonte em `site/mapa-contratos/mapa.json`; gere o HTML com `node scripts/build-migration-map.mjs`. Conteúdo sob licença MIT. O site consulta a versão aprovada no Club; membros comentam e propõem textos no Tiptap, membros-lead revisam e publicam. A estrutura anterior do ciclo contratual permanece em `ciclo-contratual.json` e no histórico da comunidade.
+
+O roteiro é editorial, sem pontuação universal ou promessa de exaustividade. Referências de escopo: [CLOC Core 12](https://cloc.org/cloc-core-12/) e [ACC Maturity Model](https://www.acc.com/maturity). Acrescente particularidades e registre o que não se aplica.

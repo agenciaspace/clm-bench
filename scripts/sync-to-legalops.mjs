@@ -1,4 +1,4 @@
-import { cpSync, existsSync, mkdirSync, writeFileSync } from 'node:fs';
+import { cpSync, existsSync, mkdirSync, writeFileSync, readFileSync } from 'node:fs';
 import { resolve, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { execFileSync } from 'node:child_process';
@@ -9,7 +9,9 @@ const revision = execFileSync('git', ['rev-parse', 'HEAD'], { cwd: root, encodin
 if (execFileSync('git', ['status','--porcelain'], {cwd:root,encoding:'utf8'}).trim()) throw new Error('Commit changes in clm-bench before synchronizing a pinned revision.');
 cpSync(resolve(root,'site/bench'), resolve(target,'cloudflare-landing/bench'), {recursive:true});
 cpSync(resolve(root,'site/mapa-contratos'), resolve(target,'cloudflare-landing/mapa-contratos'), {recursive:true});
+const journey = JSON.parse(readFileSync(resolve(root,'site/mapa-contratos/mapa.json'),'utf8'));
+writeFileSync(resolve(target,'lib/clm-migration.json'), JSON.stringify({phases:journey.phases,stages:journey.stages.map(({id,title,phase,purpose,deliverable,gate}) => ({id,title,phase,purpose,deliverable,gate}))},null,2)+'\n');
 // Backend glue is intentionally installed/reviewed separately; do not overwrite auth or middleware.
 mkdirSync(resolve(target,'docs'), {recursive:true});
-writeFileSync(resolve(target,'docs/clm-bench-upstream.json'), JSON.stringify({repository:'https://github.com/agenciaspace/clm-bench',revision,paths:['cloudflare-landing/bench','cloudflare-landing/mapa-contratos']},null,2)+'\n');
+writeFileSync(resolve(target,'docs/clm-bench-upstream.json'), JSON.stringify({repository:'https://github.com/agenciaspace/clm-bench',revision,paths:['cloudflare-landing/bench','cloudflare-landing/mapa-contratos','lib/clm-migration.json']},null,2)+'\n');
 console.log(`Copied static Bench revision ${revision}. Review the diff, run LegalOps tests/build and commit to deploy.`);
