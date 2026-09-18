@@ -29,7 +29,7 @@ A cola de autenticação, middleware e deploy está em [agenciaspace/legalops](h
 ## Collaborative CLM migration documents
 
 `components/contract-map`, `lib/contract-map.ts`, `lib/map-diff.ts`, the map API
-routes and three map migrations are the MIT reference implementation used by
+routes and map migrations are the MIT reference implementation used by
 LegalOps Club. See [collaboration/README.md](collaboration/README.md) for the
 self-hosted real-time server, security boundaries, persistence and tests.
 Install the versions in `collaboration/dependencies.json`, include
@@ -43,6 +43,7 @@ must review their authorization model before adapting it. Do not copy the
 LegalOps production credentials, create mock members, or expose service keys.
 No private contributions or member profiles are included in this source.
 
-Features: quoted/versioned comments, replies/resolution, member mentions and
+Features: inline highlighted comments with a document margin (mobile bottom panel),
+contextual quote anchors, replies/resolution, member mentions and
 private notifications, tables, checklists, shared drafts with authenticated
 presence, block-by-block lead review, approved revisions and version conflicts.
